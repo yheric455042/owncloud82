@@ -1,0 +1,7 @@
+{ "translations": {
+    "Enabled" : "啟用",
+    "Your account is disabled now." : "目前您的帳號已被鎖定",
+    "Please contact your system administrator if this message appeared." : "出現此訊息時請聯絡您的系統管理者",
+    "Redirect to login page":"重新導向到登入頁面"
+},"pluralForm" :"nplurals=1; plural=0;"
+}

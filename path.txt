@@ -1,0 +1,5 @@
+Array
+(
+    [oldpath] => /12345/gggg.txt
+    [newpath] => /gggg.txt
+)

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>ajax_event_dispatcher</id>
+    <name>Ajax Event Dispatcher</name>
+    <description>My first ownCloud app</description>
+    <licence>AGPL</licence>
+    <author>simon</author>
+    <version>0.0.1</version>
+    <namespace>Ajax_Event_Dispatcher</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8.1" />
+    </dependencies>
+</info>

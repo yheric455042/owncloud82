@@ -1,0 +1,35 @@
+Array
+(
+    [oldpath] => /Photos/Example.odt
+    [newpath] => /Example.odt
+)
+Array
+(
+    [oldpath] => /Photos/gggg.txt
+    [newpath] => /gggg.txt
+)
+Array
+(
+    [oldpath] => /Photos/aaaaa.txt
+    [newpath] => /aaaaa.txt
+)
+Array
+(
+    [oldpath] => /gggg.txt
+    [newpath] => /12345/gggg.txt
+)
+Array
+(
+    [oldpath] => /Example.odt
+    [newpath] => /12345/Example.odt
+)
+Array
+(
+    [oldpath] => /aaaaa.txt
+    [newpath] => /12345/aaaaa.txt
+)
+Array
+(
+    [oldpath] => /12345/gggg.txt
+    [newpath] => /gggg.txt
+)

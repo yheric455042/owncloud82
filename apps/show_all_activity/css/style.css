@@ -1,0 +1,9 @@
+.loading-activity {
+    background: url('../img/ajax-loader.gif') no-repeat center;
+    height: 33px;
+    margin: 0 auto;
+}
+
+#container {
+    margin-bottom: 0px;
+}
